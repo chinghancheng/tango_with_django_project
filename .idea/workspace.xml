@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01af3321-a259-48c1-adae-75e4ed9a7655" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/media/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/cat.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tango_with_django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rango/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rango/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="01af3321-a259-48c1-adae-75e4ed9a7655" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tango_with_django_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1412">
-              <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+            <state relative-caret-position="124">
+              <caret line="70" column="42" lean-forward="true" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -324,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tango_with_django_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1412">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+        <state relative-caret-position="124">
+          <caret line="70" column="42" lean-forward="true" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
         </state>
       </provider>
     </entry>
