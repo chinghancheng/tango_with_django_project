@@ -2,7 +2,6 @@ from django.shortcuts import render
 from django.http import HttpResponse
 # Import the Category model
 from rango.models import Category
-from django.template.defaultfilters import slugify
 from rango.models import Page
 from rango.forms import CategoryForm
 from rango.forms import PageForm
